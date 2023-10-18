@@ -26,6 +26,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://soumya-yadav30.github.io/Main-app",
   "browserslist": {
     "production": [
       ">0.2%",
